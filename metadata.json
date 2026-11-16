@@ -1,0 +1,6 @@
+{
+  "name": "Williamson Events — Christmas Collection & Celebrations",
+  "description": "Luxury Christmas event planning, festive hampers, bespoke seasonal decor, and unforgettable holiday celebrations by Williamson Events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
